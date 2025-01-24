@@ -23,6 +23,7 @@
 ## 🌟 Projects I'm Proud Of
 - [**Cyber Defense Tool**](https://github.com/yanis59100/cyber-defense-tool): A script/tool designed to identify vulnerabilities in networks.
 - [**Portfolio Website**](https://github.com/yanis59100/portfolio): My personal website showcasing my skills and projects.
+- [**Holberton School Projects**](https://github.com/yanis59100/holbertonschool): Various projects completed during my studies, focusing on low-level programming, algorithms, and system engineering.
 
 ---
 
