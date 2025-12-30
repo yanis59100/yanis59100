@@ -63,11 +63,5 @@ Various academic projects focused on low-level programming, algorithms, system e
 - 🧪 TryHackMe: [https://tryhackme.com/p/cyber59100](https://tryhackme.com/p/cyber59100)
 - 🎥 Twitch: [https://www.twitch.tv/cyber59100](https://www.twitch.tv/cyber59100)
 
----
-
-## 📊 GitHub Stats
-![Yanis's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanis59100&show_icons=true&theme=dark)
-
----
 
 🚀 Always motivated to learn, improve, and take on new challenges in cybersecurity.
