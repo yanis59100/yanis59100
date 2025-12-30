@@ -8,31 +8,31 @@ Currently building hands-on experience through labs, scripting projects, and Lin
 ---
 
 ## 🛡️ Areas of Interest
-- Network pentesting (reconnaissance, scanning, enumeration)
-- Linux systems & networking fundamentals
-- Security scripting & automation
-- Understanding vulnerabilities and attack surfaces
+- Network pentesting (reconnaissance, scanning, enumeration)  
+- Linux systems & networking fundamentals  
+- Security scripting & automation  
+- Understanding vulnerabilities and attack surfaces  
 
 ---
 
 ## 🧰 Languages & Tools
 
 ### 💻 Programming & Scripting
-- Python
-- Bash
-- C
-- JavaScript
+- Python  
+- Bash  
+- C  
+- JavaScript  
 
 ### 🌐 Web & Backend
-- HTML / CSS
-- Node.js / Express
-- MySQL / MongoDB
+- HTML / CSS  
+- Node.js / Express  
+- MySQL / MongoDB  
 
 ### 🔐 Systems & Tools
-- Linux
-- Networking basics
-- Git
-- Docker
+- Linux  
+- Networking basics  
+- Git  
+- Docker  
 
 ---
 
@@ -51,17 +51,18 @@ Various academic projects focused on low-level programming, algorithms, system e
 ---
 
 ## 📚 Currently Learning
-- Network scanning and enumeration techniques
-- Linux internals and system security
-- Pentesting methodologies and tooling
-- Automation of security tasks
+- Network scanning and enumeration techniques  
+- Linux internals and system security  
+- Pentesting methodologies and tooling  
+- Automation of security tasks  
 
 ---
 
 ## ⚡️ Where to Find Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/yanis-meftouh/](https://www.linkedin.com/in/yanis-meftouh/)
-- 🧪 TryHackMe: [https://tryhackme.com/p/cyber59100](https://tryhackme.com/p/cyber59100)
-- 🎥 Twitch: [https://www.twitch.tv/cyber59100](https://www.twitch.tv/cyber59100)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yanis-meftouh/)  
+- 🧪 [TryHackMe](https://tryhackme.com/p/cyber59100) (practicing labs and challenges)  
+- 🎥 [Twitch](https://www.twitch.tv/cyber59100) (sharing my cybersecurity learning journey)  
 
+---
 
 🚀 Always motivated to learn, improve, and take on new challenges in cybersecurity.
