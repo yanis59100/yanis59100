@@ -1,40 +1,72 @@
-<h1>Hi 👋, I'm a Holberton School student passionate about cybersecurity</h1>
-<p>Future ethical hacker | Passionate about securing the digital world</p>
+# 👋 Hi, I'm Yanis Meftouh
+
+🎯 Cybersecurity student with a strong interest in **network pentesting** and **security automation**.  
+I enjoy understanding how systems and networks can be attacked — and how to secure them.
+
+Currently building hands-on experience through labs, scripting projects, and Linux-based environments.
 
 ---
 
-## 🚀 Languages and Tools I Use
-<p>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-</p>
+## 🛡️ Areas of Interest
+- Network pentesting (reconnaissance, scanning, enumeration)
+- Linux systems & networking fundamentals
+- Security scripting & automation
+- Understanding vulnerabilities and attack surfaces
 
 ---
 
-## 🌟 Projects I'm Proud Of
-- [**Cyber Defense Tool**](https://github.com/yanis59100/cyber-defense-tool): A script/tool designed to identify vulnerabilities in networks.
-- [**Portfolio Website**](https://github.com/yanis59100/portfolio): My personal website showcasing my skills and projects.
-- [**Holberton School Projects**](https://github.com/yanis59100/holbertonschool): Various projects completed during my studies, focusing on low-level programming, algorithms, and system engineering.
+## 🧰 Languages & Tools
+
+### 💻 Programming & Scripting
+- Python
+- Bash
+- C
+- JavaScript
+
+### 🌐 Web & Backend
+- HTML / CSS
+- Node.js / Express
+- MySQL / MongoDB
+
+### 🔐 Systems & Tools
+- Linux
+- Networking basics
+- Git
+- Docker
 
 ---
 
-## ⚡️ Where to find me
-<p><a target="_blank" href="https://www.linkedin.com/in/yanis-meftouh-450a6b279/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a></p>
+## 🌟 Selected Projects
+
+🔐 **Cyber Defense Tool**  
+A network security script designed to identify open ports and potential vulnerabilities.  
+This project helped me understand reconnaissance techniques and network attack surfaces.
+
+🌐 **Portfolio Website**  
+Personal website showcasing my projects, technical background, and learning journey.
+
+🎓 **Holberton School Projects**  
+Various academic projects focused on low-level programming, algorithms, system engineering, and scripting.
+
+---
+
+## 📚 Currently Learning
+- Network scanning and enumeration techniques
+- Linux internals and system security
+- Pentesting methodologies and tooling
+- Automation of security tasks
+
+---
+
+## ⚡️ Where to Find Me
+- 💼 LinkedIn: https://www.linkedin.com/in/TON_LIEN
 
 ---
 
 ## 📊 GitHub Stats
-![Yanis's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanis59100&show_icons=true&theme=radical)
+
+![Yanis's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanis59100&show_icons=true&theme=dark)
 
 ---
 
-*Let's connect and build something amazing together!*
+🚀 Always motivated to learn, improve, and take on new challenges in cybersecurity.
