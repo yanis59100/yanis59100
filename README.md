@@ -59,7 +59,7 @@ Various academic projects focused on low-level programming, algorithms, system e
 ---
 
 ## ⚡️ Where to Find Me
-- 💼 LinkedIn: https://www.linkedin.com/in/TON_LIEN
+- 💼 LinkedIn: https://www.linkedin.com/in/yanis-meftouh/
 
 ---
 
