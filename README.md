@@ -60,7 +60,7 @@ Various academic projects focused on low-level programming, algorithms, system e
 
 ## ⚡️ Where to Find Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/yanis-meftouh/)  
-- 🧪 [![TryHackMe](https://img.shields.io/badge/TryHackMe-cyber59100-blue)](https://tryhackme.com/p/cyber59100)
+- 🧪 [![TryHackMe](https://img.shields.io/badge/TryHackMe-cyber59100-blue)](https://tryhackme.com/p/cyber59100)  
 - 🎥 [Twitch](https://www.twitch.tv/cyber59100) (sharing my cybersecurity learning journey)  
 
 ---
